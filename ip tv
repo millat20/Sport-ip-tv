@@ -1,13 +1,13 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eppl9IL.png?1" group-title="DreamTV-T20-CUP",Live-1[Live Only-Multi Resolution]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eppl9IL.png?1" group-title=" sport iptv icc-T20-CUP",Live-1[live-1]
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/uWmgCZmougDW5hsm1bgw83UG-Ah7OhkU8Ni1sxZnWgDOBw7mAImMwXedVcsPpFQarsRef1LO6-yGamS_RWhlKg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eppl9IL.png?1" group-title="DreamTV-T20-CUP",Live-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eppl9IL.png?1" group-title="sport iptv icc-T20-CUP",Live-2
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635803865&md5=mfL10Og8f2YaG1eflIdoPQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9EBEA88h.png" group-title="DreamTV-T20-CUP",Live-3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EBEA88h.png" group-title="sport iptv icc-T20-CUP",Live-3
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635803911&md5=mkJMlpiBU5WkgM4UZsEBog&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9EBEA88h.png" group-title="DreamTV-T20-CUP",Live-4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EBEA88h.png" group-title="sport iptv icc-T20-CUP",Live-4
 http://103.70.140.27:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hVezE4eh.png" group-title="DreamTV-T20-CUP",Live-5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVezE4eh.png" group-title="sport iptv icc-T20-CUP",Live-5
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiLx23Poia7a/12.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hVezE4eh.png" group-title="DreamTV-T20-CUP",Live-6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVezE4eh.png" group-title="sport iptv icc-T20-CUP",Live-6
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 
